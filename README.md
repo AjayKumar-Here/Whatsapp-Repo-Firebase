@@ -42,7 +42,7 @@
 
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://firebase.com/">FireBase Authendication</a></li>
+    <li><a href="https://firebase.com/">FireBase Authentication</a></li>
     <li><a href="https://firebase.com/">FireBase FireStore RealTime DataBase</a></li>
     <li><a href="https://v4.mui.com/">Material UI</a></li>
     <li><a href="https://reactrouter.com/">React Router</a></li>
