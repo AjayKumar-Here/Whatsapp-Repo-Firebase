@@ -1,6 +1,7 @@
 <div align="center">
 
   <img src="/assets/whatsapp.PNG" alt="logo" width="200" height="auto" />
+  ![Alt text](/assets/whatsapp.PNG)
   <h1>WhatsApp Clone</h1>
    
 <h2>
