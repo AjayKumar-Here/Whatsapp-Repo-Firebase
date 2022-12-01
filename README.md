@@ -24,7 +24,7 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-
+This Whatsapp webApp Project made by Reactjs and FireStore Database..woring with realtime group chat..you can login with your gmail account
 
 <!-- Screenshots -->
 ### :camera: Screenshots
