@@ -4,7 +4,7 @@
   <h1>WhatsApp Clone</h1>
    
 <h2>
-    <a href="https://ajaykumar-here.github.io/Vision-AI/">WhatsApp WebApp</a>
+    <a href="https://AjayKumar-Here.github.io/Whatsapp-WebApp/">WhatsApp WebApp</a>
   </h2>
 </div>
 
