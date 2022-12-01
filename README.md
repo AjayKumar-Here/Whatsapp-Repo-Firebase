@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/whatsapp.PNG" alt="logo" width="200" height="auto" />
+  <img src="https://github.com/AjayKumar-Here/Vision-AI-Repo/blob/main/assets/whatsapp.PNG" alt="logo" width="200" height="auto" />
   <h1>WhatsApp Clone</h1>
    
 <h2>
@@ -30,10 +30,10 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="assets/ps1.PNG" alt="screenshot" />
+  <img src="https://github.com/AjayKumar-Here/Vision-AI-Repo/blob/main/assets/ps1.PNG" alt="screenshot" />
 </div>
 <div align="center"> 
-  <img src="assets/ps2.PNG" alt="screenshot" />
+  <img src="https://github.com/AjayKumar-Here/Vision-AI-Repo/blob/main/assets/ps2.PNG" alt="screenshot" />
 </div>
 
 
