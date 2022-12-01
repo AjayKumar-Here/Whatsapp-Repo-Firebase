@@ -10,6 +10,12 @@
 
 <br />
 
+<!-- Hosting -->
+## :gear: Hosting
+
+  - Front End  - `Github Pages`
+  - Database - `Firebase Firestore`
+
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
 
