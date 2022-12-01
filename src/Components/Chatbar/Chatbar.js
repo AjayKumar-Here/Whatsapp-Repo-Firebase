@@ -47,7 +47,7 @@ export  function Chatbar (){
 
   const sendMessage = (e) => {
     e.preventDefault();
-
+    if (input.length === 0 || input.trim().length === 0) return;
     const colRef = collection(db, `rooms/${roomId}/messages`);
     addDoc(colRef, {
       message: input,
