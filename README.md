@@ -24,7 +24,7 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-This Whatsapp webApp Project made by Reactjs and FireStore Database..woring with realtime group chat..you can login with your gmail account
+This Whatsapp webApp Project made by Reactjs and FireStore Database..working with realtime group chat...this project heve google authentication. so, anyone can login with  gmail account  chat with existing or create new group chat. but the existing groups are common for everyone.
 
 <!-- Screenshots -->
 ### :camera: Screenshots
