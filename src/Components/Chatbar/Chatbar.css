@@ -1,0 +1,101 @@
+.chat{
+  display: flex;
+  flex-direction: column;
+  flex: 0.65;
+}
+
+.chat_header{
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  border-bottom: 1px solid lightgrey;
+}
+.chat_info{
+  flex: 1;
+  padding-left: 15px;
+}
+.chat_info > h2{
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.chat_info > p{
+  color: grey;
+}
+
+.chat_body{
+  flex: 1;
+  padding: 25px;
+  background-image: url("https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png");
+  background-repeat: repeat;
+  background-position: center;
+  padding : 30px;
+  overflow: scroll;
+
+}
+
+.chat_msg{
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 10px;
+  width: fit-content;
+  margin-bottom: 30px;
+  font-size: 16px;
+}
+
+.chat_receiver{
+  margin-left: auto;
+  background-color: #dcf8c6;
+}
+
+.chat_TimeStamp{
+  margin-left: 10px;
+  font-size: xx-small;
+}
+
+.chat_personName{
+  position: absolute;
+  top: -15px;
+  font-weight: 800;
+  font-size: xx-small;
+}
+.chat_footer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  border-top: 1px solid lightgrey;
+}
+
+.chat_footer > form{
+  flex: 1;
+  display: flex;
+ 
+}
+
+.chat_footer > form > input{
+  flex: 1;
+  border-radius: 30px;
+  padding: 10px;
+  border: none;
+  outline-width: 0;
+}
+
+.chat_footer > form > button{
+  display: none;
+}
+
+.chat_footer > .MuiSvgIcon-root{
+  padding: 10px;
+  color: grey;
+ 
+}
+
+.emoji_style{
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  opacity: 0.4;
+  cursor: pointer;
+}
