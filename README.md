@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="/assets/whatsapp.PNG" alt="logo" width="200" height="auto" />
+  <img src="https://github.com/AjayKumar-Here/Whatsapp-Repo-Firebase/blob/main/assets/whatsapp.PNG" alt="logo" width="200" height="auto" />
   <h1>WhatsApp Clone</h1>
    
 <h2>
