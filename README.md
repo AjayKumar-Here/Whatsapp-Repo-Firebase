@@ -36,10 +36,10 @@ This Whatsapp webApp Project made by Reactjs and FireStore Database..working wit
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://github.com/AjayKumar-Here/Vision-AI-Repo/blob/main/assets/ps1.PNG" alt="screenshot" />
+  <img src="https://github.com/AjayKumar-Here/Whatsapp-Repo-Firebase/blob/main/assets/ps1.PNG" alt="screenshot" />
 </div>
 <div align="center"> 
-  <img src="https://github.com/AjayKumar-Here/Vision-AI-Repo/blob/main/assets/ps2.PNG" alt="screenshot" />
+  <img src="https://github.com/AjayKumar-Here/Whatsapp-Repo-Firebase/blob/main/assets/ps2.PNG" alt="screenshot" />
 </div>
 
 
